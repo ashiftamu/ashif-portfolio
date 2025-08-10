@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/ashif-portfolio/static/css/main.31d6cfe0.css",
-    "main.js": "/ashif-portfolio/static/js/main.5c11e21c.js",
-    "index.html": "/ashif-portfolio/index.html",
-    "main.5c11e21c.js.map": "/ashif-portfolio/static/js/main.5c11e21c.js.map"
+    "main.css": "/static/css/main.31d6cfe0.css",
+    "main.js": "/static/js/main.5c11e21c.js",
+    "index.html": "/index.html",
+    "main.5c11e21c.js.map": "/static/js/main.5c11e21c.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
