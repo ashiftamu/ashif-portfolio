@@ -118,15 +118,15 @@ export default function Portfolio() {
 
       <Section title="About Me">
         <p className="text-gray-700 leading-relaxed">
-          I am a Ph.D. student in Industrial Engineering at Texas A&M University, working in the Human Factors and Cognitive Systems (HF&CS) lab. My research focuses on haptic feedback design for teleoperation systems in high-risk construction environments. I explore how tactile cues can enhance situational awareness, reduce cognitive workload, and improve safety outcomes in complex, time-delayed tasks.
+          I am a third-year PhD student at Texas A&M University, specializing in Industrial Engineering. I work in the Human Factors and Cognitive Systems (HF&CS) lab under the mentorship of Dr. Thomas Ferris. My research is primarily focused on haptic displays and their applications, aiming to enhance human-technology interaction. I’m particularly interested in learning how humans can effectively process information and in exploring ways to augment human capabilities. In addition to this, I focus on usability testing, user experience (UX) research, and developing intuitive, user-friendly interfaces. My broader research interests include human information processing, user research, usability analysis, and human performance modeling, all aimed at contributing to more effective and seamless technology interactions.
         </p>
       </Section>
 
       <Section title="Education">
         <ul className="list-disc list-inside text-gray-700 space-y-2">
-          <li>Ph.D. in Industrial Engineering, Texas A&M University (2023–Present)</li>
+          <li>Ph.D. in Industrial Engineering, Texas A&M University (2024–Present)</li>
           <li>M.S. in Industrial Engineering, Texas A&M University (2022–2024)</li>
-          <li>B.Sc. in Industrial & Production Engineering, BUET</li>
+          <li>B.Sc. in Industrial & Production Engineering, Shahjalal University of Science and Technology, Bangladesh</li>
         </ul>
       </Section>
 

@@ -10,6 +10,7 @@
     "react-scripts": "5.0.1"
   },
   "scripts": {
+    "publish-docs": "npm run build && node scripts/publish-docs.js",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
